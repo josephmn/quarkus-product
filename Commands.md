@@ -103,3 +103,9 @@
 ```bash
 ./mvnw quarkus:add-extension -Dextensions="jdbc-postgresql"
 ```
+
+### ADD Dependency for Spring Data API
+
+```bash
+./mvnw quarkus:add-extension -Dextensions="spring-data-jpa"
+```
