@@ -98,3 +98,8 @@
 }
 ```
 
+### ADD Dependency PostgreSQL
+
+```bash
+./mvnw quarkus:add-extension -Dextensions="jdbc-postgresql"
+```
